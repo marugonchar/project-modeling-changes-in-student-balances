@@ -19,7 +19,7 @@
 
 Код sql запроса находится в файле "sql-запрос"
 
-> <a href="https://docs.google.com/spreadsheets/d/1QzAQwFeuVdxwSPwIzK2o1VPz-lYDMpgo/edit?usp=sharing&ouid=112922628303316243157&rtpof=true&sd=true"> Excel таблица с данными и визуализацией по балансу учеников</a> 
+> <a href="https://docs.google.com/spreadsheets/d/1QzAQwFeuVdxwSPwIzK2o1VPz-lYDMpgo/edit?usp=sharing&ouid=112922628303316243157&rtpof=true&sd=true"> Excel-таблица с данными и визуализацией по балансу учеников</a> 
 
 Выводы:
 
